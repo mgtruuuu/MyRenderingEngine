@@ -2,6 +2,9 @@
 
 
 
+![thumbnail](./thumbnail.png)
+
+
 ## Project Overview
 
 Rendering Damaged Halmet by using **DirectX 11** API and the following techniques/effects

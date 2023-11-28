@@ -17,10 +17,25 @@ Rendering Damaged Halmet by using **DirectX 11** API and the following technique
 
 - Bloom
 
-- Lighting
 
-- Gamma
+### Process
 
+![](./images/paths.png)
+
+- **Render** : Rendering Models (mirror included)
+
+- **PostProcess** : Bloom
+
+- **ToneMap** : Exposure, Gamma
+
+
+### PBR 및 그래픽스 학습자료 (개인자료)
+
+- [PBR Intro](https://mgtruuuu.notion.site/PBR-Intro-4a7233f4cdc44e04bebea16ec86cd0eb)
+
+- [Unreal PBR](https://mgtruuuu.notion.site/Unreal-PBR-1f5df2537bc7484aac96309f312b8fbe) 
+
+- [Lecture note](https://mgtruuuu.notion.site/mgtruuuu/Computer-Graphics-3243be6f24384b1abfa97beef7e4bec3)
 
 
 ## Keyboard/Mouse Controls
